@@ -23,7 +23,7 @@ namespace InterfacesExample
         /// This way we can swap reading from database to reading from any source
         /// Feel it is a good example of why you should use interfaces compared to the other over complicated examples online
         /// </summary>
-        /// <returns>class that implements the IReadWrite Interface</returns>
+        /// <returns>object that implements the IReadWrite Interface</returns>
         public static IReadWrite getObject()
         {
             return new DatabaseInteraction();
