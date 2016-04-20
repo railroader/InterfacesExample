@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace InterfacesExample
 {
     /// <summary>
-    /// Interfacing defining two methods for reading and writing to a data source
+    /// Interface defining two methods for reading and writing to a data source
     /// </summary>
     interface IReadWrite
     {
