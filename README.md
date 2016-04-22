@@ -1,2 +1,2 @@
 # InterfacesExample
-Interface to demonstrate how to loosely couple Data Access 
+Example of loosely coupling Data Access using an Interface
